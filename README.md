@@ -1,8 +1,7 @@
 
-<a href=""><img align="right" width="425" src="https://lanyard.kyrie25.me/api/478570663549075456?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&bg=0d1117"></a>
+<a href=""><img align="right" height="200" width="425" src="https://lanyard.kyrie25.me/api/478570663549075456?imgStyle=square&gradient=645CBB-A084DC-BFACE2-EBC7E6&waveColor=FF597B&bg=0d1117"></a>
 
 ### Hi!👋I'm HoangNhoo🍇
-
 > おいおい、野獣の隠れ家へようこそ。
 
 **AI enthusiast.**
