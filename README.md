@@ -9,7 +9,7 @@
 ## **☕ About me**
 <a href="https://github.com/HoangNhoo"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
 I'm a weeb _:D_. My hobbies are playing games, watching anime and of course coding (I love doing this).
-
+<br><br>
 
 ## **Github Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=HoangNhoo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNhoo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
