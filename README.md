@@ -6,10 +6,7 @@
 
 **AI enthusiast.** 
 
-
-
-
-&nbsp;
+<img src="https://media1.tenor.com/m/oZpbXQCEptMAAAAC/hu-tao-wave.gif" width="150" />
 
 ## **☕ About me**
 <a href="https://github.com/HoangNhoo"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
