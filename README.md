@@ -21,15 +21,24 @@ I'm a weeb _xD_. My hobbies are playing games (mmorpg like genshin, moba like lo
 ## **Contacts**
 
 **You can email me here:**
-```cpp
-#include <iostream>
+```asm
+    global  main
+    extern  puts
 
-void email() {
-  puts("hoangdinh10082005gmail.com");
-}
+    section  .text
 
-int main () {
-    email();
-    return 0;
-}
+email:
+    mov   rdi, mymail
+    call  puts
+    ret
+main:
+    push  rbp
+    mov   rbp, rsp
+    call  email
+
+    leave
+    ret
+    
+    section  .rodata
+mymail:  db  "hoangdinh10082005@gmail.com", 0
 ```
