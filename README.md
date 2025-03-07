@@ -4,7 +4,7 @@
 ### Hi!👋I'm HoangNhoo🍇
 > おいおい、野獣の隠れ家へようこそ。
 
-**AI enthusiast.** 
+**Security Research enthusiast.** 
 
 <img src="https://media1.tenor.com/m/oZpbXQCEptMAAAAC/hu-tao-wave.gif" width="150" />
 
